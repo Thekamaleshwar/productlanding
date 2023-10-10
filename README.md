@@ -36,8 +36,8 @@ You can see the live demo of the landing page [here](#).
 
 - HTML5
 - CSS3
-- JavaScript (if applicable)
-- Any additional technologies or frameworks
+- JavaScript
+
 
 ## Installation
 
